@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import {StreamChat} from 'stream-chat';
 import {Chat} from 'stream-chat-react';
